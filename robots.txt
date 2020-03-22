@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eefaetien.simon-it-consulting.de/sitemap.xml
